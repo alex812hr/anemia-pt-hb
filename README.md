@@ -94,4 +94,4 @@ Este sistema es una herramienta de apoyo y NO reemplaza el diagnóstico médico 
 
 ## 📝 Licencia
 
-MIT License
+
